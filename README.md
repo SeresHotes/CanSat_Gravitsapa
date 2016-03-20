@@ -1,2 +1,4 @@
 # CanSat_Gravitsapa
-Cansat project
+Can project
+
+Our first team project!
